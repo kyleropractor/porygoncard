@@ -1,2 +1,3 @@
 # porygoncard
-Card made with html and css
+
+This is a card made with html and css.
